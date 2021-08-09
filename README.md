@@ -11,7 +11,7 @@ I'm a DevOps Engineer (in progress). I’m currently learning about infrastructu
 ### Languages and Tools:
 <div display="flex">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
