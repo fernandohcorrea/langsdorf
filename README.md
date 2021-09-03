@@ -37,6 +37,10 @@ I'm a DevOps Engineer (in progress). I’m currently learning about infrastructu
 <!--[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.co/in/thiago-langsdorf) -->
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thlangsdorf)
 
+<div align="center">
+    <img src="https://github.com/Langsdorf/langsdorf/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=langsdorf" alt="" />
 </p>
