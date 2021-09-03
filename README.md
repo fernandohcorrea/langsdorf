@@ -5,8 +5,10 @@ I'm a DevOps Engineer (in progress). I’m currently learning about infrastructu
 <br/>
 
 <h3 align="center">Public stats:</h4>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=langsdorf&show_icons=true&layout=compact&locale=en&theme=dark" alt="" />
-<img src="https://github-readme-stats.vercel.app/api?username=langsdorf&show_icons=true&locale=en&layout=compact&theme=dark" alt="" />
+<div display="flex">
+    <img src="https://github-readme-stats.vercel.app/api?username=langsdorf&show_icons=true&locale=en&layout=compact&theme=dark" alt="" />
+    <img stule="margin-left: auto !important;" src="https://github-readme-stats.vercel.app/api/top-langs?username=langsdorf&show_icons=true&layout=compact&locale=en&theme=dark" alt="" />
+</div>
 
 <h3 align="center">Languages and Tools:</h1>
 <div display="flex">
