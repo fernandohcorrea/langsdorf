@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm a DevOps Engineer (in progress). I’m currently learning about infrastructure, Apache Kafka, Go, Docker and Kubernetes.
+<!--I'm a DevOps Engineer (in progress). I’m currently learning about infrastructure, Apache Kafka, Go, Docker and Kubernetes.-->
 <br/>
 <br/>
 
