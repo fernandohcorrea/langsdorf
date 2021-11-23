@@ -1,4 +1,40 @@
-<h1 align="center">Hi there 👋</h1>
+<div align="center">
+    <a href="https://github.com/langsdorf">
+        <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/langsdorf">
+        <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/thlangsdorf/">
+         <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:langsdorf6@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="mailto:langsdorf@outlook.com">
+        <img src="https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/>
+    </a>
+</div>
+
+<br/>
+<br/>
+
+I'm a fullstack engineer from Brazil <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>
+
+<hr/>
+<h3>Things I work with</h3>
+<div display="flex">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nestjs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-00afff?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+<!-- <h1 align="center">Hi there 👋</h1>
 
 <!--I'm a DevOps Engineer (in progress). I’m currently learning about infrastructure, Apache Kafka, Go, Docker and Kubernetes.-->
 <br/>
@@ -47,3 +83,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=langsdorf" alt="" />
 </p>
+ -->
